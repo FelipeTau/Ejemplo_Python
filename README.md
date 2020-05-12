@@ -1,1 +1,1 @@
-# Ejemplo_Python
+# EjTeórico
